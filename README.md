@@ -1,0 +1,1 @@
+# PytonSeminarHomeWork6
